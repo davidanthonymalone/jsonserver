@@ -2,19 +2,19 @@
                 "id": 1,
                 "location": "Waterford",
                 "type": "walking",
-                "length": "3 miles"
+                "length": "1 miles"
             },
                {
                 "id": 2,
-                "location": "Waterford",
-                "type": "walking",
-                "length": "3 miles"
+                "location": "Wexford",
+                "type": "Running",
+                "length": "2 miles"
             },
                {
                "id": 3,
-                "location": "Waterford",
-                "type": "walking",
-                "length": "3 miles"
+                "location": "Carlow",
+                "type": "Jogging",
+                "length": "5 miles"
             }
  
 ]
