@@ -1,4 +1,4 @@
- workouts: [
+[
             {
                 id: uuid.v4(),
                 location: 'Waterford',
@@ -17,4 +17,4 @@
                 type: 'walking',
                 length: '3 miles'
             }
-        ]
+]
