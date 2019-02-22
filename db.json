@@ -1,20 +1,19 @@
-[
-            {
-                id: 1,
-                location: 'Waterford',
-                type: 'walking',
-                length: '3 miles'
-            },
-               {
-                id: 2,
-                location: 'Wexford',
-                type: 'walking',
-                length: '3 miles'
-            },
-               {
-                id: 3,
-                location: 'Wicklow',
-                type: 'walking',
-                length: '3 miles'
-            }
+[{
+		"id": 1,
+		"Location": "Waterford",
+		"Type": "Walking",
+		"Length": 4
+	},
+	{
+		"id": 1,
+		"Location": "Waterford",
+		"Type": "Walking",
+		"Length": 4
+	},
+	{
+		"id": 1,
+		"Location": "Waterford",
+		"Type": "Walking",
+		"Length": 4
+	}
 ]
