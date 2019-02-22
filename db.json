@@ -1,0 +1,20 @@
+ workouts: [
+            {
+                id: uuid.v4(),
+                location: 'Waterford',
+                type: 'walking',
+                length: '3 miles'
+            },
+               {
+                id: uuid.v4(),
+                location: 'Wexford',
+                type: 'walking',
+                length: '3 miles'
+            },
+               {
+                id: uuid.v4(),
+                location: 'Wicklow',
+                type: 'walking',
+                length: '3 miles'
+            }
+        ]
